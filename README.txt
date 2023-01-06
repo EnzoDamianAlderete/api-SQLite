@@ -1,1 +1,1 @@
-Repositorio reservado para api rest con SQLite.
+Proyecto api rest con SQLite finalizado.
